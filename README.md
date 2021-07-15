@@ -6,6 +6,6 @@ https://campe-rs.herokuapp.com/
 <br>
 <b>Front-End -HTMl, EJS, CSS& Bootstrap</b>
 <br>
-<b>Back-End - Node.js, Express.js & MongoDB</b>
+<b>Back-End - Node.js, Express.js,Passport.js & MongoDB</b>
 
 
